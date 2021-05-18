@@ -7,3 +7,4 @@
 - Bootstrap
 - FancyBox
 - Swiper Slider JS
+https://kopypaster.github.io/flowers/
