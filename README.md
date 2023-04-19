@@ -8,4 +8,4 @@
 - FancyBox
 - Swiper Slider JS
 
-https://kopypaster.github.io/flowers/
+https://Splucheviy.github.io/flowers/
